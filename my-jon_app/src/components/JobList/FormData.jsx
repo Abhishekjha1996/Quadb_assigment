@@ -57,7 +57,7 @@ function ApplicationForm() {
             />
           </label>
           <label>
-            Cover Letter Note::
+            Cover Letter:
             <textarea
             className='inputboxes'
               name="coverLetter"

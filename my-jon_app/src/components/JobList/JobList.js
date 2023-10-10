@@ -28,7 +28,7 @@ function JobList() {
   
   return (
     <div>
-    <h1>Please search  </h1>
+    <h1> Search Job by programming language </h1>
       <input
       id='inputbox'
         type="text"
